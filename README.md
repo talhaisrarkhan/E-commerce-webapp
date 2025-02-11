@@ -1,1 +1,1 @@
-# E-commerce-webapp
+# E-commerce-webapp is an e-commerece web application created on mern stack .
